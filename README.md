@@ -18,7 +18,7 @@ now download the private key of the database (from project settings). after down
 
 To work the MySQL tables, place the script file (The scrpipt file is attatched to the Point-of-sale-system-part1 repo).
 
-Please DO NOT modify or remove any text file in both Point-of-sale-system-part2 and Point-of-sale-system-part1 projects (otherwise the entire operations like auto generate id's etc.. of the projects will be affected). Keep those files in the same place.
+Please DO NOT modify or remove any text file in both Point-of-sale-system-part2 and Point-of-sale-system-part1 projects (otherwise the entire operations like auto generate id's etc.. of the projects will be affected). Keep those files in the same place. but it necessary to update the text file paths of the both projects according to the project location.
 
 **Main features**
 
